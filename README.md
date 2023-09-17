@@ -1,5 +1,5 @@
 
-# Resturan Model
+# Resturant Model
 
 The Spring Resturant Model is a web application designed to manage user information efficiently. It provides a set of endpoints for performing various resturant-related operations, such as adding resturant, retrieving resturan details, listing all resturant, updating resturant information, and deleting resturant. 
 
